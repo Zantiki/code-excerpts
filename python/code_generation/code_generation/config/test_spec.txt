@@ -1,0 +1,12 @@
+
+# src/index.js
+Create: a component called Test that renders "hello-world" on the center of the page
+
+# src/index.js
+Edit: component Test into root render
+
+# src/index.js
+Create: a component called EdgeTest that says "I'm an AI" to the bottom left
+
+# src/index.js
+Edit: component EdgeTest into root render

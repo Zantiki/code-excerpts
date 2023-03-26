@@ -1,0 +1,20 @@
+{
+  "sync_db": false,
+  "enable_testing": true,
+  "testing_params": {
+    "start_value": 10000,
+    "positions": [
+      {
+        "ticker": "AAPL",
+        "percentage": 33.00,
+        "strategy": "simple_enter_exit_long"
+      }
+
+    ],
+    "start_period": "",
+    "end_period": ""
+  },
+  "data_granularity": "minutes",
+  "update_wait": 5,
+  "concurrent_threads": 10
+}

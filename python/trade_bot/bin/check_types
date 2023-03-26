@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+pushd ..
+  python -m mypy src --strict
+popd
+

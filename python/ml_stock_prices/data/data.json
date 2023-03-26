@@ -1,0 +1,50 @@
+{
+  "tickers": [
+    "AAPL",
+    "V",
+    "JNJ",
+    "GOOGL",
+    "AMZN",
+    "WMT",
+    "XOM",
+    "LIN",
+    "LMT",
+    "NEE",
+    "AMT",
+    "SPY",
+    "^VIX"
+  ],
+
+  "specify_period" : true,
+
+  "spec_period" : [
+    {"start_date" : "2010-10-01"},
+    {"end_date" : "2020-10-01"}
+  ],
+
+  "time_period": "1mo",
+
+  "time_frequency": "1d",
+
+  "auto_adjust" : true,
+
+  "prepost" : false,
+
+  "threads" : false,
+  "sectors": [
+    "tech",
+    "financial",
+    "health",
+    "com",
+    "consumer_cyclic",
+    "consumer_defense",
+    "energy",
+    "materials",
+    "industrial",
+    "utilites",
+    "real_estate",
+    "index",
+    "vol_index"
+  ]
+
+}

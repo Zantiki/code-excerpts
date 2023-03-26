@@ -1,0 +1,3 @@
+ mysql-connector-python
+ alpaca_trade_api
+ mypy

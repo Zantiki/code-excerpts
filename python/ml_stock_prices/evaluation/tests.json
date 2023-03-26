@@ -1,0 +1,23 @@
+{
+  "test_stocks" : [
+    "AAPL_2010-10-01_2020-10-01_2020-10-29.csv",
+    "JNJ_2010-10-01_2020-10-01_2020-10-29.csv",
+    "SPY_2010-10-01_2020-10-01_2020-10-29.csv"
+  ],
+
+  "features": [
+    "Close",
+    "Open",
+    "High",
+    "Low",
+    "Volume"
+  ],
+
+  "epochs": 1000,
+  "data_points": 3000,
+  "save_models": false,
+  "save_plots": false,
+  "repeat": 1,
+  "lookback": 30,
+  "lookback_roof": 24
+}

@@ -1,0 +1,10 @@
+{
+    # This is an example, the file that will actually be used is called auth_config.json
+    "databaseURL": "",
+    "dialect": "",
+    "databasePassword": "",
+    "databaseUser": "",
+    "databaseName": "",
+    "alpaca_key_id": "",
+    "alpaca_key": ""
+}
